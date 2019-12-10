@@ -1,11 +1,3 @@
 [{
-  "channel": [
-    {
-      "number": "2",
-      "name": "SiriusXM Hits 1",
-      "description": "Today's Pop Hits",
-      "supercategory": "Music",
-      "category": "Pop"
-    }
-  ]
+  "channelNumber": "2"
 }]
